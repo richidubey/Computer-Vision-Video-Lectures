@@ -1,3 +1,7 @@
+CV COurse at UCB:
+https://www-inst.eecs.berkeley.edu//~cs280/sp15/index.html
+https://www-inst.eecs.berkeley.edu/~cs280/sp20/
+
 More:
 
 100% free machine learning courses:
