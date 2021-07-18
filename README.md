@@ -1,5 +1,10 @@
+EDx Courses:    
+https://www.edx.org/professional-certificate/deep-learning?index=product&queryID=86685718d4b24bee1e4345d4e10d7856&position=1    
+    
+    
+    
 CV COurse at UCB:
-https://www-inst.eecs.berkeley.edu//~cs280/sp15/index.html
+https://www-inst.eecs.berkeley.edu//~cs280/sp15/index.html    
 https://www-inst.eecs.berkeley.edu/~cs280/sp20/
 
 More:
